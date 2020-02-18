@@ -1,4 +1,4 @@
-<h1>Artificial Intelligence - Automated Planning</h1>
+<h1>Artificial Intelligence - Automated Planning - 2018</h1>
 <h2>Save Giraffe:</h2>
 This application consists of a new PDDL planning domain.
 
@@ -17,7 +17,7 @@ Agents can perform certain functions:
   <li>Fireman </li>
   <li>Caretaker </li>
 </ul>
-With the domain implemented, problem files were created, with increasing difficulty, to assess the scalability of the planner used. 
+With the domain implemented, problem files were created, with increasing difficulty, to evaluate the scalability of the planner used. 
 <h2>Planners Used:</h2>
 <ul>
   <li>PDDL4J </li>
